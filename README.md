@@ -1,4 +1,5 @@
-# 10-fold cross-validation using transfer learning models for image classification
+# A Benchmark for Studying Ocular Toxoplasmosis
+## 10-fold cross-validation using transfer learning models for image classification
 
 This repository includes the code for a 10-fold cross-validation using transfer learning models for image classification. The following transfer learning models are used:
 
