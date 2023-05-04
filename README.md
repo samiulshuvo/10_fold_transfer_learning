@@ -11,4 +11,4 @@ This repository includes the code for a 10-fold cross-validation using transfer 
 
 ## Dataset
 
-The dataset used for this cross-validation can be found in the `data` folder. It contains images of two classes (class A and class B) stored in two separate folders.
+The dataset used for this cross-validation can be found in https://www.kaggle.com/datasets/samiulshuvo/fundus-images. It contains images of two classes (class A and class B) stored in two separate folders.
