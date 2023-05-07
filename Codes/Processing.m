@@ -22,7 +22,6 @@ kernel_size = [51 51];
 sigma = 2;
 hsize = 21;
 
-%%
 
 for i=1:length(folder)
     image_files = dir([source_path,folder{i},'\*.jpg']);
@@ -79,6 +78,6 @@ end
 
 """
 Inspired from the processing mentioned following article : 
-Wu, Bo, et al. "Automatic detection of microaneurysms in retinal fundus images." 
+Wu, Bo, et al. Automatic detection of microaneurysms in retinal fundus images.
 Computerized Medical Imaging and Graphics 55 (2017): 106-112.
 """
